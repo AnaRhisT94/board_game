@@ -1,6 +1,6 @@
 Installation: 
 ---------
-Use main_python.py to run the code of solution_candidate.py
+Use `main_python.py` to run the code of `solution_candidate.py`
 
 Scenario: 
 ---------
